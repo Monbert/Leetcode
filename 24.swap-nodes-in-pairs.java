@@ -18,7 +18,9 @@
 class Solution {
     public ListNode swapPairs(ListNode head) {
         ListNode dummy = new ListNode();
+        while(head!= null){
         
+        }
     }
 }
 // @lc code=end
